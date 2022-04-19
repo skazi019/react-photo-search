@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-photo-search/static/css/main.903ed54e.css",
+    "main.js": "/react-photo-search/static/js/main.c0e5d404.js",
+    "static/js/787.a5471142.chunk.js": "/react-photo-search/static/js/787.a5471142.chunk.js",
+    "index.html": "/react-photo-search/index.html",
+    "main.903ed54e.css.map": "/react-photo-search/static/css/main.903ed54e.css.map",
+    "main.c0e5d404.js.map": "/react-photo-search/static/js/main.c0e5d404.js.map",
+    "787.a5471142.chunk.js.map": "/react-photo-search/static/js/787.a5471142.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.903ed54e.css",
+    "static/js/main.c0e5d404.js"
+  ]
+}
