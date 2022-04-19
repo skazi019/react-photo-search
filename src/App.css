@@ -60,16 +60,15 @@ body {
 
 .card-list {
     column-count: 3;
-    /* page-break-inside: avoid; */
 }
 
 .card {
     margin-bottom: 1rem;
     display: flex;
+    page-break-inside: avoid;
 }
 
 .card--image {
-    page-break-after: always;
     flex: 100%;
     display: block;
     margin-top: 1rem;
